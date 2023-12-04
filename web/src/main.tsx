@@ -1,10 +1,9 @@
+import './index.css';
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
-
 import VideoPlayer from './components/VideoPlayer';
 
-export default function App() {
+function App() {
   return (
     <VideoPlayer />
   );

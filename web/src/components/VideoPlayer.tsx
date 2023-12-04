@@ -23,8 +23,8 @@ export default function VideoPlayer() {
   }, []);
 
   return (
-    <div>
-      <video ref={videoRef} controls></video>
+    <div className="w-screen h-screen flex items-center justify-center bg-black">
+      <video ref={videoRef} controls className="w-full h-auto"></video>
     </div>
   );
 }
