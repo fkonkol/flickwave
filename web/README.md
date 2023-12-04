@@ -1,3 +1,5 @@
+<a name="readme-top"></a>
+
 # 🖥 Web user interface
 
 ## Jump to
@@ -21,8 +23,12 @@ Then, the frontend can be started with:
 yarn dev
 ```
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Configuration details
 
 | Property  | Value   | Addl. details    |
 | --------- | ------- | ---------------- |
 | Framework | `React` | `Version 18.2.0` |
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
